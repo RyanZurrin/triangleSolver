@@ -20,4 +20,6 @@ Steps you need to take to make this work on your computer.
   
   3) Once the files are added to a project and they are all there (11 files) you can then build the project and play around in the driver program to build new triangles. You can add, subtract, multiply and divide triangles together to make new triangle objects.
   
+   //link to the UML for the bigger calculator I was pretending to know how to build lol, i wanted a calculator that could do high level math before i realized how difficult that would be to build from ground up and then was going to try to utilize some external libraries but never did. I still hope to revisit this project in the future and hopefully ill beable to use some libraries and really make it what I intended. Still learning how to use external libraries and not good yet.
    
+https://app.lucidchart.com/invitations/accept/9482370d-84c3-4e30-844f-e9911776656e
