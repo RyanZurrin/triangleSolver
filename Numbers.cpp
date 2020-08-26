@@ -3,8 +3,7 @@
 
 Numbers::Numbers()
 {
-
-	
+	this->squareRootsList = {{0," "}};	
 }
 
 void Numbers::printOutMap()

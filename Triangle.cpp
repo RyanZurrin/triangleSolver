@@ -1,9 +1,4 @@
 #include "Triangle.h"
-#include "exceptionHandler.h"
-#include <string>
-#include <cctype>
-#include <vector>
-#include <algorithm>
 
 int Triangle::counter = 0;
 

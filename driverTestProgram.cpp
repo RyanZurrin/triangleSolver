@@ -25,7 +25,8 @@ int main()
 	Triangle one(4,5,5);
 	one.showTriangle();
 	*/
-	
+	Numbers objTester;
+	objTester.squareLoop(1, 100);
 	Triangle testTriangle(2, 2, 3);	
 	Triangle test1(4, 5, 5);
 	testTriangle.showTriangle();
@@ -38,17 +39,7 @@ int main()
 
 }
 ////////////////////////////////////////////////////////////////////////////
-double squareLoop(int min, int max)
-	{
-		double totalLoop = 0;
-		cout << "the square roots of the numbers from " << min 
-				 << " to " << max << endl;
-		for (int i = min; i < max; i++) {
-		 cout << "Sqrt of # " << i << " is equal to: " << sqrt(i) <<endl;
-		 totalLoop += sqrt(i);
-	}
-	return totalLoop;
-}
+
 	
 
 	

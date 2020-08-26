@@ -10,6 +10,10 @@
 #include <string>
 #include <utility>
 #include <iostream>
+#include "exceptionHandler.h"
+#include <cctype>
+#include <vector>
+#include <algorithm>
 
 using namespace std;
 
